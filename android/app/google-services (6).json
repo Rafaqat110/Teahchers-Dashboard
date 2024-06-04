@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465589917461",
+    "project_id": "teachers-dashboard-9690d",
+    "storage_bucket": "teachers-dashboard-9690d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465589917461:android:15dc8e596f572debad3b1c",
+        "android_client_info": {
+          "package_name": "com.example.teachers_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga-KxIr2wqiAg0TmrDR3jl3DvQl1JtMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
